@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rufeng Chen
 - 👀 I’m interested in photography and travelling. 
 - 🌱 I’m currently learning business and data analytics courses in CityU.
-- 📫 Here is my e-mail:rrchen6-c@my.cityu.edu.hk
+- 📫 Find me in the Linkedin.
 
 <!---
 rufengchen/rufengchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
